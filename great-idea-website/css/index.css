@@ -129,7 +129,7 @@ section{
 }
 
 
-input{
+.button{
 	padding: 10px 30px 10px 30px;
 	font-size: 1.1em;
 	border: 2px solid black;
